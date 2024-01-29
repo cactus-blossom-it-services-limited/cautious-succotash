@@ -1,0 +1,7 @@
+name: 'My Custom'
+type: module
+description: 'Custom code for test'
+package: Custom
+core_version_requirement: ^10
+dependencies:
+  - drupal:views

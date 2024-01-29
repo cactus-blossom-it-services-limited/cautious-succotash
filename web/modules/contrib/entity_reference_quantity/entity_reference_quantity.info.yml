@@ -1,0 +1,10 @@
+name: Entity Reference Quantity
+type: module
+description: Entity reference field with quantity
+core_version_requirement: ^8.8 || ^9 || ^10
+package: Custom
+
+# Information added by Drupal.org packaging script on 2023-12-24
+version: '3.0.0'
+project: 'entity_reference_quantity'
+datestamp: 1703387562
