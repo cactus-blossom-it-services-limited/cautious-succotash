@@ -14,6 +14,7 @@ test
 - I have created two exposed filters but a bug seems to be causing 'autocomplete' to be used instead of the configured 'select'
 ## Incomplete
 - I have created a custom module
+### Tasks planned but not started
 - The lesson of the day requires a simple block plugin implementation
 - You can limit (in code) the block to display only on the home page
 - The rules module could be used to schedule the change of product at midnight
